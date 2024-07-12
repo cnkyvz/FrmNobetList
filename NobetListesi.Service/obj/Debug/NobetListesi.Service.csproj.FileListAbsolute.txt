@@ -1,0 +1,17 @@
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\NobetListesi.Service.dll
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\NobetListesi.Service.pdb
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\Dapper.dll
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\Dapper.SqlBuilder.dll
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\Dapper.xml
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\obj\Debug\NobetListesi.Service.csproj.AssemblyReference.cache
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\obj\Debug\NobetListesi.Service.csproj.CoreCompileInputs.cache
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\obj\Debug\NobetListesi.Service.csproj.CopyComplete
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\obj\Debug\NobetListesi.Service.dll
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\obj\Debug\NobetListesi.Service.pdb
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\NobetListesi.Service.dll.config
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\EntityFramework.dll
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\EntityFramework.xml
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\NobetListesi.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\FRMNobetListesi\NobetListesi.Service\obj\Debug\NobetListesi.Service.dll
+C:\Users\ASUS\Desktop\FRMNobetListesi\NobetListesi.Service\obj\Debug\NobetListesi.Service.pdb

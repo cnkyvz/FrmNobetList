@@ -1,0 +1,10 @@
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\bin\Debug\FRMNobetListesi.exe.config
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\bin\Debug\FRMNobetListesi.exe
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\bin\Debug\FRMNobetListesi.pdb
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\obj\Debug\FRMNobetListesi.csproj.AssemblyReference.cache
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\obj\Debug\FRMNobetListesi.Form1.resources
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\obj\Debug\FRMNobetListesi.Properties.Resources.resources
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\obj\Debug\FRMNobetListesi.csproj.GenerateResource.cache
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\obj\Debug\FRMNobetListesi.csproj.CoreCompileInputs.cache
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\obj\Debug\FRMNobetListesi.exe
+C:\Users\cenk.yavuz\source\repos\FRMNobetListesi\FRMNobetListesi\obj\Debug\FRMNobetListesi.pdb
